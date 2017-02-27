@@ -1,0 +1,63 @@
+p {
+  color: black;
+  font-family: sans-serif;
+  font-size: 12;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 14;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 14;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-size: 12;
+}
+
+ol {
+  font-family: sans-serif;
+  font-size: 12;
+}
+
+ul {
+  font-family: sans-serif;
+  font-size: 12;
+}
+
+table {
+  font-family: sans-serif;
+  font-size: 12;
+}
+
+body {
+    background-image: url("seigaiha.png");
+}
+
+.list {
+  color: red;
+}
+
+#tabletitle {
+  color: brown;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: green;
+}
